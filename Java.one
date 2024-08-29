@@ -1,0 +1,5 @@
+public class BasicJavaExample {
+
+    // Method to calculate the sum of numbers from 1 to n
+    public static int calculateSum(int n) {
+        int sum = 0; // Variable to
